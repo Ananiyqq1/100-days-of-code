@@ -1,0 +1,1 @@
+ - 3 digit phone number pattern
